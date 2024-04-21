@@ -1,0 +1,1 @@
+In this project, our focus lies on utilizing Python to establish connections with a MySQL database. Our aim is to empower clients to execute queries seamlessly, enabling us to practice various database interactions effectively.
